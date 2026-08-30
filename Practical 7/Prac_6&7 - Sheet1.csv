@@ -1,0 +1,21 @@
+Order ID,Order Date,Category,Sub-Category,City,Amount,Profit,Quantity,Season,Winner,Venue,Toss Decision,Match Type,Target Runs
+ORD001,01-01-2024,Electronics,Mobile,Mumbai,45000,8000,2,2024,Mumbai Indians,Wankhede Stadium,Field,League,185
+ORD002,03-01-2024,Electronics,Laptop,Pune,65000,12000,1,2024,Chennai Super Kings,Chepauk Stadium,Bat,League,175
+ORD003,05-01-2024,Furniture,Chair,Delhi,12000,-1500,4,2023,Royal Challengers Bengaluru,M. Chinnaswamy Stadium,Field,League,190
+ORD004,07-01-2024,Clothing,T-Shirt,Mumbai,2500,600,8,2023,Kolkata Knight Riders,Eden Gardens,Bat,League,165
+ORD005,09-01-2024,Furniture,Table,Chennai,18000,2500,2,2022,Rajasthan Royals,Sawai Mansingh Stadium,Field,Playoff,170
+ORD006,11-01-2024,Electronics,Headphones,Hyderabad,5000,1200,6,2022,Sunrisers Hyderabad,Rajiv Gandhi Stadium,Bat,League,180
+ORD007,13-01-2024,Clothing,Jeans,Bengaluru,3500,700,5,2021,Gujarat Titans,Narendra Modi Stadium,Field,Final,195
+ORD008,15-01-2024,Grocery,Snacks,Ahmedabad,1800,300,15,2021,Punjab Kings,PCA Stadium,Bat,League,160
+ORD009,17-01-2024,Electronics,TV,Jaipur,55000,9000,1,2020,Lucknow Super Giants,Ekana Stadium,Field,League,200
+ORD010,19-01-2024,Furniture,Sofa,Kolkata,35000,5000,1,2020,Delhi Capitals,Arun Jaitley Stadium,Bat,Playoff,175
+ORD011,21-01-2024,Clothing,Shoes,Mumbai,4200,900,4,2019,Mumbai Indians,Wankhede Stadium,Field,League,180
+ORD012,23-01-2024,Grocery,Rice,Delhi,2200,350,10,2019,Chennai Super Kings,Chepauk Stadium,Bat,League,165
+ORD013,25-01-2024,Electronics,Tablet,Pune,28000,4500,2,2018,Kolkata Knight Riders,Eden Gardens,Field,League,185
+ORD014,27-01-2024,Furniture,Bed,Hyderabad,42000,-2000,1,2018,Royal Challengers Bengaluru,M. Chinnaswamy Stadium,Bat,Final,190
+ORD015,29-01-2024,Clothing,Jacket,Chennai,5200,1000,3,2017,Rajasthan Royals,Sawai Mansingh Stadium,Field,League,170
+ORD016,31-01-2024,Electronics,Camera,Bengaluru,38000,6500,1,2017,Gujarat Titans,Narendra Modi Stadium,Bat,Playoff,195
+ORD017,02-02-2024,Grocery,Oil,Ahmedabad,2500,400,7,2016,Sunrisers Hyderabad,Rajiv Gandhi Stadium,Field,League,175
+ORD018,04-02-2024,Furniture,Cupboard,Jaipur,28000,3500,2,2016,Punjab Kings,PCA Stadium,Bat,League,180
+ORD019,06-02-2024,Clothing,Shirt,Kolkata,2000,500,6,2015,Delhi Capitals,Arun Jaitley Stadium,Field,League,160
+ORD020,08-02-2024,Electronics,Smartwatch,Mumbai,15000,2800,3,2015,Lucknow Super Giants,Ekana Stadium,Bat,Final,185
