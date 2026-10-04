@@ -1,0 +1,96 @@
+Car Sales, Profitability & Customer Segmentation Dashboard using Tableau
+
+
+This project focuses on analyzing car dealership sales data using Tableau. An interactive dashboard was created to understand sales performance, profitability, regional performance, customer behavior, and high-value customers.
+
+The project uses a dataset containing 5,000 car sales transactions and presents the results through charts, KPIs, maps, RFM analysis, and customer clustering.
+
+---
+
+🎯 Objectives
+
+- Analyze overall car sales and profit performance.
+- Compare sales performance across different car brands.
+- Analyze state-wise and regional sales performance.
+- Study the relationship between discount and profit.
+- Segment customers using RFM analysis and Tableau clustering.
+- Identify high-value customers.
+- Provide an interactive dashboard for business analysis.
+
+---
+
+📊 Dataset
+
+**Dataset Name:** Car Dealership Sales – 5,000 Transactions
+
+**Number of Records:** 5,000
+
+**Source:** Custom-generated synthetic dataset created for this project.
+
+Important Fields
+
+- Sale_ID
+- Sale_Date
+- Customer_ID
+- Customer_Name
+- Brand
+- Car_Model
+- Car_Category
+- Fuel_Type
+- Transmission
+- Region
+- State
+- City
+- Quantity
+- Selling_Price
+- Discount
+- Sales
+- Profit
+- Payment_Method
+
+---
+
+🛠️ Tools & Technologies
+
+- Tableau
+- CSV Dataset
+- Tableau Calculated Fields
+- Tableau Maps
+- Tableau Clustering
+- RFM Analysis
+
+---
+
+📈 Dashboard Features
+
+The dashboard contains:
+
+### 1. KPI Cards
+- Total Sales
+- Total Profit
+- Cars Sold
+- Profit Ratio
+- Total Customers
+
+### 2. Sales by Car Brand
+A bar chart used to compare sales performance across different car brands.
+
+### 3. Sales Trend
+A line chart showing monthly sales trends over the selected time period.
+
+### 4. State Sales Map
+A geographical map showing sales performance across different states in India.
+
+### 5. Discount vs Profit
+A scatter plot used to analyze the relationship between discount and profit.
+
+### 6. Customer RFM Clustering
+Customers are segmented using:
+- Recency
+- Frequency
+- Monetary Value
+
+Tableau clustering is used to divide customers into three segments.
+
+### 7. High-Value Customer Analysis
+Identifies customers with higher monetary value for better customer retention and targeted marketing.
